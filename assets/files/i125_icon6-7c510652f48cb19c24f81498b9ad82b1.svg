@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>i125_icon5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2560px" transform="translate(-1668.000000, -2374.000000)">
+            <g id="Group-27" transform="translate(1668.000000, 2374.000000)">
+                <rect id="Rectangle-Copy-7" stroke="#91B4FF" stroke-width="2" fill-opacity="0.212221372" fill="#6193FE" x="18" y="18" width="88" height="88" rx="30"></rect>
+                <g id="Group-4" transform="translate(39.000000, 45.000000)" stroke="#FFFFFF">
+                    <path d="M15.0371941,29.9996111 C13.1311269,29.9996111 11.3404882,29.9996111 9.66527828,29.9996111 C4.94353389,29.9996111 1.77635684e-14,26.0598511 1.77635684e-14,19.9790923 C1.77635684e-14,15.0011081 3.04663684,12.7097687 6.11090967,10.8779765 L6.10972273,10.8153632 C6.10972273,7.23146708 9.05185151,4.32614527 12.6811513,4.32614527 C14.1777389,4.32614527 15.557478,4.82017475 16.6622523,5.65209559 C18.7850641,2.26028932 22.5848519,1.95399252e-14 26.9192465,1.95399252e-14 C33.4614152,1.95399252e-14 38.7856571,5.14932851 38.9623371,11.5675114 C43.4615031,11.945825 46.9986116,16.1955549 46.9986116,20.9221336 C46.9986116,25.899767 41.8414767,29.9996111 37.0024103,29.9996111 C35.1421756,30.0068502 33.8655228,29.9963547 32.9993781,29.9996111" id="Path" stroke-width="2" stroke-linecap="round"></path>
+                    <g id="Group-3" transform="translate(20.000000, 22.000000)">
+                        <rect id="Rectangle" fill="#D8D8D8" x="3.49478149" y="1.49719238" width="1" height="11" rx="0.5"></rect>
+                        <polyline id="Path-27" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="5.19584376e-14 4.00363159 3.99478149 -2.13162821e-14 7.99745178 4.00363159"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

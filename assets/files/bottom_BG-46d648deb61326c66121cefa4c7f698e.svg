@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 1920 550" width="1920" height="550" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(273px,245px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(273px,245px) scale(1.2,1.2); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(273px,245px) scale(1,1); } }
+@keyframes a1_t { 0% { transform: translate(83px,52px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(83px,72px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(83px,52px); } }
+@keyframes a2_t { 0% { transform: translate(1493.5px,362px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(1493.5px,322px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(1493.5px,362px); } }
+@keyframes a3_t { 0% { transform: translate(1928px,441px) scale(1,1) translate(7.5px,7.5px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(1928px,441px) scale(1.2,1.2) translate(7.5px,7.5px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(1928px,441px) scale(1,1) translate(7.5px,7.5px); } }
+@keyframes a4_t { 0% { transform: translate(1935.5px,209px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 57.1428% { transform: translate(1935.5px,209px) scale(1.1,1.1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(1935.5px,209px) scale(1,1); } }
+@keyframes a5_t { 0% { transform: translate(1839px,280.5px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 55.5555% { transform: translate(1839px,280.5px) scale(1.1,1.1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(1839px,280.5px) scale(1,1); } }
+@keyframes a6_t { 0% { transform: translate(110px,416.5px) scale(1,1) translate(6.25px,6.25px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(110px,416.5px) scale(1.1,1.1) translate(6.25px,6.25px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(110px,416.5px) scale(1,1) translate(6.25px,6.25px); } }
+@keyframes a7_t { 0% { transform: translate(350.5px,448.5px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(350.5px,448.5px) scale(0.9,0.9); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(350.5px,448.5px) scale(1,1); } }
+@keyframes a8_t { 0% { transform: translate(1314.5px,472.5px) scale(1,1) translate(57.5px,57.5px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(1314.5px,472.5px) scale(0.9,0.9) translate(57.5px,57.5px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(1314.5px,472.5px) scale(1,1) translate(57.5px,57.5px); } }
+    </style>
+    <ellipse rx="57" ry="57" fill="#e1c25c" stroke="none" transform="translate(273,245)" style="animation: a0_t 4s linear infinite both;"/>
+    <ellipse rx="27" ry="27" fill="#dbe44b" stroke="none" opacity="0.15" transform="translate(83,52)" style="animation: a1_t 3s linear infinite both;"/>
+    <ellipse rx="34.5" ry="34.5" fill="#dbe44b" stroke="none" opacity="0.7" transform="translate(1486,354.5) translate(7.5,7.5)" style="animation: a2_t 4s linear infinite both;"/>
+    <ellipse rx="34.5" ry="34.5" fill="#dbe44b" stroke="none" opacity="0.7" transform="translate(1928,441) translate(7.5,7.5)" style="animation: a3_t 5s linear infinite both;"/>
+    <ellipse rx="58" ry="58" fill="#e1c25c" stroke="none" opacity="0.7" transform="translate(1935.5,209)" style="animation: a4_t 3.5s linear infinite both;"/>
+    <ellipse rx="105.5" ry="105.5" fill="#9fe3d9" stroke="none" opacity="0.4" transform="translate(1839,280.5)" style="animation: a5_t 4.5s linear infinite both;"/>
+    <ellipse rx="213.75" ry="213.75" fill="#cddf5a" stroke="none" opacity="0.7" transform="translate(110,416.5) translate(6.25,6.25)" style="animation: a6_t 6s linear infinite both;"/>
+    <ellipse rx="86.5" ry="86.5" fill="#9fe3d9" stroke="none" opacity="0.3" transform="translate(350.5,448.5)" style="animation: a7_t 2s linear infinite both;"/>
+    <ellipse rx="144" ry="144" fill="#deee6d" stroke="none" opacity="0.3" transform="translate(1314.5,472.5) translate(57.5,57.5)" style="animation: a8_t 4s linear infinite both;"/>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="164px" viewBox="0 0 24 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>recipe-project-finish-android</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.3608954%" y1="5.59745303%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7BCD59" offset="0%"></stop>
+            <stop stop-color="#029E48" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#58C054" offset="0%"></stop>
+            <stop stop-color="#58C054" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(-1556.000000, -731.000000)">
+            <g id="Group-26" transform="translate(381.000000, 393.000000)">
+                <g id="Group-6" transform="translate(1175.000000, 338.000000)">
+                    <path d="M12,164 C18.627417,164 24,158.627417 24,152 C24,145.372583 18.627417,140 12,140 C5.372583,140 0,145.372583 0,152 C0,158.627417 5.372583,164 12,164 Z M16.4899206,154.18386 L14.7677599,152.084976 L16.4899206,149.986093 L18.3156572,151.047568 C18.8886021,151.380675 19.0830288,152.115176 18.7499212,152.688121 C18.6452859,152.868094 18.49563,153.01775 18.3156572,153.122385 L16.4899206,154.18386 Z M15.7367649,154.621741 L9.90368634,158.013066 L14.2115384,152.762871 L15.7367649,154.621741 Z M8.43000871,158.453321 C8.01394363,158.376989 7.63252266,158.126089 7.40323922,157.731722 C7.27012238,157.502761 7.2,157.242637 7.2,156.977791 L7.2,147.192162 C7.2,146.45597 7.73035584,145.843648 8.42983969,145.716426 L13.6553169,152.084976 L8.43000871,158.453321 Z M9.90368688,146.156888 L15.7367648,149.548212 L14.2115384,151.407082 L9.90368688,146.156888 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="12 133.5 12 3.5 11 3.5 11 133.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="436" height="436" viewBox="0 0 436 436">
+    <defs>
+        <linearGradient id="s1xm06iouatospo18upm599t" x1="358.5" y1="216" x2="0" y2="216" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+        </linearGradient>
+    </defs>
+    <style>
+@keyframes t0t41qd3jro8u5zdnwtxvsqd_t { 0% { transform: translate(218px,218px) rotate(180deg) translate(-217px,-218px); } 60% { transform: translate(218px,218px) rotate(180deg) translate(-217px,-218px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(218px,218px) rotate(-180deg) translate(-217px,-218px); } }
+    </style>
+    <path d="M435,218L360,218C360,139.023,295.977,75,217,75C138.023,75,74,139.023,74,218L-1,218C-1,97.602,96.602,0,217,0C337.398,0,435,97.602,435,218Z" fill="url(#s1xm06iouatospo18upm599t)" fill-rule="evenodd" transform="translate(218,218) rotate(180) translate(-217,-218)" style="animation: 5s linear infinite both t0t41qd3jro8u5zdnwtxvsqd_t;"/>
+</svg>

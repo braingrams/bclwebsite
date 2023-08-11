@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+    <defs>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#12C8FC"/>
+            <stop offset="100%" stop-color="#1860ED"/>
+        </linearGradient>
+        <rect id="a" width="88" height="125" x="56" y="36" rx="11"/>
+        <filter id="b" width="105.7%" height="104%" x="-2.8%" y="-2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <path id="d" d="M65 78h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H65a2 2 0 0 1-2-2V80a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H85a2 2 0 0 1-2-2V80a2 2 0 0 1 2-2zm20 0h30a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-30a2 2 0 0 1-2-2V80a2 2 0 0 1 2-2zM65 98h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H65a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H85a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm-60 20h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H65a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H85a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm-60 20h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H65a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H85a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2zm20 0h10a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-10a2 2 0 0 1-2-2v-10a2 2 0 0 1 2-2z"/>
+        <filter id="e" width="106.8%" height="106.8%" x="-3.4%" y="-3.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <rect id="f" width="76" height="26" x="62" y="42" rx="5"/>
+        <filter id="g" width="107.9%" height="123.1%" x="-3.9%" y="-11.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0.623529412 0 0 0 0 1 0 0 0 0.15 0"/>
+        </filter>
+    </defs>
+<g class="currentLayer" style=""><title>Layer 1</title><g fill="none" fill-rule="evenodd" id="svg_1" class="">
+        <g id="svg_2">
+            <use fill="#DCF2FF" xlink:href="#a" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_3"/>
+            <use fill="#000" filter="url(#b)" xlink:href="#a" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_4"/>
+            <use stroke="url(#c)" stroke-width="2" xlink:href="#a" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_5"/>
+        </g>
+        <g id="svg_6">
+            <use fill="#DCF2FF" xlink:href="#d" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_7"/>
+            <use fill="#000" filter="url(#e)" xlink:href="#d" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_8"/>
+            <use stroke="url(#c)" stroke-width="2" xlink:href="#d" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_9"/>
+        </g>
+        <g id="svg_10">
+            <use fill="#FFF" xlink:href="#f" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_11"/>
+            <use fill="#000" filter="url(#g)" xlink:href="#f" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_12"/>
+            <use stroke="url(#c)" stroke-width="2" xlink:href="#f" y="-2.0512810349464417" x="-2.0256399512290955" id="svg_13"/>
+        </g>
+        <path fill="url(#c)" d="M174.28836004877093,56.26271896505356 h16 v16 h-16 z" transform="rotate(45 195.93023681640625,28.91273307800292) " id="svg_14"/>
+        <path fill="url(#c)" d="M30.974360048770905,169.94871896505356 c-6.627,0 -12,-5.373 -12,-12 s5.373,-12 12,-12 s12,5.373 12,12 s-5.373,12 -12,12 zm0,-5 a7,7 0 1 0 0,-14 a7,7 0 0 0 0,14 zM161.6923600487709,175.94871896505356 l2.7190000000000003,2.718 a1.9220000000000002,1.9220000000000002 0 1 1 -2.7190000000000003,2.7190000000000003 L158.9743600487709,178.66671896505355 l-2.718,2.7190000000000003 a1.9220000000000002,1.9220000000000002 0 1 1 -2.7190000000000003,-2.7190000000000003 l2.7190000000000003,-2.718 l-2.7190000000000003,-2.718 a1.9220000000000002,1.9220000000000002 0 1 1 2.7190000000000003,-2.7190000000000003 l2.718,2.7190000000000003 l2.718,-2.7190000000000003 a1.9220000000000002,1.9220000000000002 0 1 1 2.7190000000000003,2.7190000000000003 L161.6923600487709,175.94871896505356 zM178.6723600487709,22.94871896505356 l1.743,1.7440000000000002 a1.907,1.907 0 0 1 -2.697,2.697 L175.9743600487709,25.64671896505356 l-1.7440000000000002,1.743 a1.907,1.907 0 1 1 -2.697,-2.697 L173.2763600487709,22.94871896505356 l-1.743,-1.7440000000000002 a1.907,1.907 0 0 1 2.697,-2.697 L175.9743600487709,20.250718965053558 l1.7440000000000002,-1.743 a1.907,1.907 0 1 1 2.697,2.697 L178.6723600487709,22.94871896505356 z" id="svg_15"/>
+    </g></g></svg>

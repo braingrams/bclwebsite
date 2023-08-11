@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i92_ava_2</title>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="114.218434%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#00B899" offset="0%"></stop>
+            <stop stop-color="#1BFFD9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-880.000000, -362.000000)">
+            <g id="Group-24-Copy" transform="translate(880.000000, 362.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="46" cy="46" r="32"></circle>
+                <path d="M33.2900391,53 L34.4423828,49.6894531 L39.9501953,49.6894531 L41.1123047,53 L43.6904297,53 L38.3095703,38.78125 L36.0927734,38.78125 L30.7216797,53 L33.2900391,53 Z M39.2568359,47.6972656 L35.1357422,47.6972656 L37.1962891,41.7988281 L39.2568359,47.6972656 Z M49.9794922,53 L52.7431641,42.6191406 L55.4482422,53 L57.8115234,53 L61.0927734,38.78125 L58.6416016,38.78125 L56.4541016,49.484375 L53.7685547,38.78125 L51.6982422,38.78125 L48.9833984,49.4648438 L46.7763672,38.78125 L44.3251953,38.78125 L47.6064453,53 L49.9794922,53 Z" id="AW" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

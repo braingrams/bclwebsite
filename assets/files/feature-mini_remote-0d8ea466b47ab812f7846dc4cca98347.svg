@@ -1,0 +1,19 @@
+<svg width="98" height="96" viewBox="0 0 98 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 48C10 68.9868 27.0132 86 48 86C52.7863 86 57.3659 85.1151 61.5842 83.5M34.5 12.4679C38.695 10.8732 43.2455 10 48 10C68.9868 10 86 27.0132 86 48C86 49.0097 85.9606 50.0102 85.8833 51" stroke="#B9D2FF" stroke-width="2" stroke-linecap="round"/>
+<circle cx="48" cy="48" r="28" fill="white" stroke="#3959A4" stroke-width="2"/>
+<ellipse cx="48" cy="48" rx="11" ry="28" fill="white" stroke="#3959A4" stroke-width="2"/>
+<line x1="25" y1="32" x2="71" y2="32" stroke="#3959A4" stroke-width="2"/>
+<line x1="25" y1="63" x2="71" y2="63" stroke="#3959A4" stroke-width="2"/>
+<line x1="20" y1="48" x2="67" y2="48" stroke="#3959A4" stroke-width="2"/>
+<line x1="29" y1="48" x2="76" y2="48" stroke="#3959A4" stroke-width="2"/>
+<path d="M5.10938 19C5.10938 17.8954 6.00481 17 7.10938 17H34.8872C35.9917 17 36.8872 17.8954 36.8872 19V38.8333H5.10938V19Z" fill="#B9D2FF" stroke="#3959A4" stroke-width="2"/>
+<mask id="path-9-inside-1" fill="white">
+<path d="M2 40C2 41.1046 2.89543 42 4 42H38C39.1046 42 40 41.1046 40 40V38.1667C40 37.8905 39.7761 37.6667 39.5 37.6667H2.5C2.22386 37.6667 2 37.8905 2 38.1667V40Z"/>
+</mask>
+<path d="M2 40C2 41.1046 2.89543 42 4 42H38C39.1046 42 40 41.1046 40 40V38.1667C40 37.8905 39.7761 37.6667 39.5 37.6667H2.5C2.22386 37.6667 2 37.8905 2 38.1667V40Z" fill="#3959A4" stroke="#3959A4" stroke-width="4" mask="url(#path-9-inside-1)"/>
+<path d="M26.056 31.9345L24.3671 25.4343C24.2747 25.0787 24.5846 24.7482 24.9455 24.8176L31.7012 26.1176C32.0921 26.1928 32.2427 26.6725 31.9649 26.9576L30.5013 28.4596L32.2724 30.2774C32.4616 30.4715 32.4616 30.7811 32.2724 30.9752L30.8594 32.4254C30.6632 32.6269 30.3394 32.6269 30.1432 32.4254L28.3902 30.6263L26.8981 32.1577C26.6263 32.4367 26.154 32.3115 26.056 31.9345Z" fill="white"/>
+<path d="M69 60C69 58.8954 69.8954 58 71 58H83C84.1046 58 85 58.8954 85 60V87C85 88.1046 84.1046 89 83 89H71C69.8954 89 69 88.1046 69 87V60Z" fill="#B9D2FF" stroke="#3959A4" stroke-width="2"/>
+<rect x="74" y="58" width="8" height="2" rx="1" fill="#3959A4"/>
+<path d="M84 50L86 52L88 50" stroke="#B9D2FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 48L10 46L8 48" stroke="#B9D2FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

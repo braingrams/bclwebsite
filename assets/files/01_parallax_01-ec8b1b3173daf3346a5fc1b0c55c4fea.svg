@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" viewBox="0 0 14 14">
+    <style>
+@keyframes a0_t { 0% { transform: translate(7px,7px) rotate(0deg) translate(-5px,-5px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 94.6666% { transform: translate(7px,7px) rotate(0deg) translate(-5px,-5px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(7px,7px) rotate(90deg) translate(-5px,-5px); } }
+    </style>
+    <rect width="10" height="10" fill="#636363" stroke="none" transform="translate(7,7) translate(-5,-5)" style="animation: a0_t 5s linear infinite both;"/>
+</svg>

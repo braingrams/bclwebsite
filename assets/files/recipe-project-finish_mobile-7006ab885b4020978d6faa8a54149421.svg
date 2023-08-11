@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="164px" viewBox="0 0 24 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>recipe-project-finish-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.22044605e-14%" y1="2.83276945e-14%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AC53FF" offset="0%"></stop>
+            <stop stop-color="#4439FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#8D4BFF" offset="0%"></stop>
+            <stop stop-color="#8D4BFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(-1596.000000, -731.000000)">
+            <g id="Group-26" transform="translate(381.000000, 393.000000)">
+                <g id="Group-6" transform="translate(1215.000000, 338.000000)">
+                    <path d="M12,164 C5.372583,164 0,158.627417 0,152 C0,145.372583 5.372583,140 12,140 C18.627417,140 24,145.372583 24,152 C24,158.627417 18.627417,164 12,164 Z M16.779662,147.306377 L9.77393277,154.58193 L7.19770909,152.072854 C6.80206268,151.68752 6.16895289,151.69588 5.7836188,152.091526 C5.39828471,152.487173 5.4066445,153.120283 5.80229091,153.505617 L9.098982,156.716381 C9.49622058,157.103266 10.1324099,157.093056 10.5170291,156.693623 L18.220338,148.693623 C18.6034155,148.295792 18.5914549,147.66274 18.1936232,147.279662 C17.7957916,146.896584 17.1627396,146.908545 16.779662,147.306377 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="12 133.5 12 3.5 11 3.5 11 133.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

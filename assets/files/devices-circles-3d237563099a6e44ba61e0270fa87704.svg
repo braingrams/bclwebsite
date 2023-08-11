@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Denis Kluchnikov -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" width="800" height="410" viewBox="0 0 800 410" style="white-space: pre;">
+    <defs>
+        <linearGradient id="Gradient-0" x1="400" y1="0" x2="400" y2="149.5" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffffff"/>
+            <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <style>
+@keyframes circle_t { 0% { transform: translate(400px,212px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(400px,212px) scale(20,20); } }
+@keyframes circle_o { 0% { opacity: 0.35; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { opacity: 0; } }
+@keyframes circle_sw { 0% { stroke-width: 1px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { stroke-width: 0.5px; } }
+@keyframes circle-2_t { 0% { transform: translate(400px,212px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(400px,212px) scale(20,20); } }
+@keyframes circle-2_o { 0% { opacity: 0.35; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { opacity: 0; } }
+@keyframes circle-2_sw { 0% { stroke-width: 1px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { stroke-width: 0.5px; } }
+@keyframes circle-3_t { 0% { transform: translate(400px,212px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(400px,212px) scale(20,20); } }
+@keyframes circle-3_o { 0% { opacity: 0.35; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { opacity: 0; } }
+@keyframes circle-3_sw { 0% { stroke-width: 1px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { stroke-width: 0.5px; } }
+@keyframes circle-4_t { 0% { transform: translate(400px,212px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(400px,212px) scale(20,20); } }
+@keyframes circle-4_o { 0% { opacity: 0.35; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { opacity: 0; } }
+@keyframes circle-4_sw { 0% { stroke-width: 1px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { stroke-width: 0.5px; } }
+@keyframes circle-5_t { 0% { transform: translate(400px,212px) scale(1,1); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: translate(400px,212px) scale(20,20); } }
+@keyframes circle-5_o { 0% { opacity: 0.35; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { opacity: 0; } }
+@keyframes circle-5_sw { 0% { stroke-width: 1px; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { stroke-width: 0.5px; } }
+    </style>
+    <ellipse id="circle" rx="20" ry="20" fill="none" stroke="#4cc9e4" stroke-width="1" opacity="0.35" transform="translate(400,212)" style="animation: circle_t 20s linear infinite both, circle_o 20s linear infinite both, circle_sw 20s linear infinite both;"/>
+    <ellipse id="circle-2" rx="20" ry="20" fill="none" stroke="#4cc9e4" stroke-width="1" opacity="0.35" transform="translate(400,212)" style="animation: circle-2_t 20s linear 4s infinite both, circle-2_o 20s linear 4s infinite both, circle-2_sw 20s linear 4s infinite both;"/>
+    <ellipse id="circle-3" rx="20" ry="20" fill="none" stroke="#4cc9e4" stroke-width="1" opacity="0.35" transform="translate(400,212)" style="animation: circle-3_t 20s linear 8s infinite both, circle-3_o 20s linear 8s infinite both, circle-3_sw 20s linear 8s infinite both;"/>
+    <ellipse id="circle-4" rx="20" ry="20" fill="none" stroke="#4cc9e4" stroke-width="1" opacity="0.35" transform="translate(400,212)" style="animation: circle-4_t 20s linear 12s infinite both, circle-4_o 20s linear 12s infinite both, circle-4_sw 20s linear 12s infinite both;"/>
+    <ellipse id="circle-5" rx="20" ry="20" fill="none" stroke="#4cc9e4" stroke-width="1" opacity="0.35" transform="translate(400,212)" style="animation: circle-5_t 20s linear 16s infinite both, circle-5_o 20s linear 16s infinite both, circle-5_sw 20s linear 16s infinite both;"/>
+    <rect width="800" height="149.5" stroke="none" fill="url(#Gradient-0)" transform="translate(400,74.75) translate(-400,-74.75)"/>
+    <rect width="800" height="149.5" stroke="none" fill="url(#Gradient-0)" transform="translate(400,74.75) translate(-400,-74.75)"/>
+</svg>

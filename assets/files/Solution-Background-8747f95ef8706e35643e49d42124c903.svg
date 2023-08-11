@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="920px" height="896px" viewBox="0 0 920 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Solution-Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="2.57466919%" x2="100%" y2="97.4253308%" id="linearGradient-1">
+            <stop stop-color="#4CFF8D" offset="0%"></stop>
+            <stop stop-color="#006B8A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Actual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case_Greenlinks_2560" transform="translate(-820.000000, -4105.000000)" fill="url(#linearGradient-1)">
+            <g id="Big-Picture" transform="translate(781.000000, 4105.000000)">
+                <g id="Solution-Background" transform="translate(39.000000, 0.000000)">
+                    <path d="M734.438954,79.7075485 C859.210015,181.365613 969.192974,437.360201 897.046731,625.85593 C809.631318,854.245259 433.061395,954.160821 222.434639,861.762221 C90.1356021,803.724742 32.719107,581.147973 183.744866,504.224444 C526.47688,329.657163 280.288521,149.838932 448.572407,20.7412728 C485.416619,-7.52347472 609.667893,-21.9505157 734.438954,79.7075485 Z M89.796221,231.45304 C165.888862,167.720676 254.82377,148.470852 288.438005,188.457449 C322.052208,228.444073 287.616717,312.525002 211.524258,376.257583 C135.431617,439.989947 46.4967087,459.239772 12.882474,419.253174 C-20.7317291,379.266551 13.7037621,295.185621 89.796221,231.45304 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

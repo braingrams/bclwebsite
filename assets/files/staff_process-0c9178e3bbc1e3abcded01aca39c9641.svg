@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="background: rgba(0,0,0,0.00); white-space: pre;">
+    <style>
+@keyframes gzniw3qkm1u3f0vl29g11mg6_t { 0% { transform: translate(399px,400px) scale(1,1) translate(-320px,-185px); } 50% { transform: translate(399px,400px) scale(1.02,1.02) translate(-320px,-185px); } 100% { transform: translate(399px,400px) scale(1,1) translate(-320px,-185px); } }
+@keyframes lhdz4wcp8nqmbo356474um1z_t { 0% { transform: translate(635px,185px) scale(1,1) translate(-5px,-185px); } 54.1666% { transform: translate(635px,185px) scale(1,1) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 66.6666% { transform: translate(635px,185px) scale(1.04,1.04) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 87.5% { transform: translate(635px,185px) scale(1,1) translate(-5px,-185px); } 100% { transform: translate(635px,185px) scale(1,1) translate(-5px,-185px); } }
+@keyframes lhdz4wcp8nqmbo356474um1z_o { 0% { opacity: 0.1; } 54.1667% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 66.6667% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 87.5% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes cc3tkis16kpzg73l3ye4am8a_t { 0% { transform: translate(590px,185px) scale(1,1) translate(-50px,-185px); } 48.3333% { transform: translate(590px,185px) scale(1,1) translate(-50px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 60.8333% { transform: translate(590px,185px) scale(1.04,1.04) translate(-50px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 81.6666% { transform: translate(590px,185px) scale(1,1) translate(-50px,-185px); } 100% { transform: translate(590px,185px) scale(1,1) translate(-50px,-185px); } }
+@keyframes cc3tkis16kpzg73l3ye4am8a_o { 0% { opacity: 0.1; } 48.3333% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 60.8333% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 81.6667% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes lkg4wqqh6vjk0w59mbvhzkni_t { 0% { transform: translate(455px,185px) scale(1,1) translate(-5px,-185px); } 41.6666% { transform: translate(455px,185px) scale(1,1) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 54.1666% { transform: translate(455px,185px) scale(1.04,1.04) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 75% { transform: translate(455px,185px) scale(1,1) translate(-5px,-185px); } 100% { transform: translate(455px,185px) scale(1,1) translate(-5px,-185px); } }
+@keyframes lkg4wqqh6vjk0w59mbvhzkni_o { 0% { opacity: 0.1; } 41.6667% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 54.1667% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 75% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes rx59ntguh2yfeoulaampk2c7_t { 0% { transform: translate(365px,185px) scale(1,1) translate(-5px,-185px); } 35.8333% { transform: translate(365px,185px) scale(1,1) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.3333% { transform: translate(365px,185px) scale(1.04,1.04) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 69.1666% { transform: translate(365px,185px) scale(1,1) translate(-5px,-185px); } 100% { transform: translate(365px,185px) scale(1,1) translate(-5px,-185px); } }
+@keyframes rx59ntguh2yfeoulaampk2c7_o { 0% { opacity: 0.1; } 35.8333% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 48.3333% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 69.1667% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes yedw8ry0ikwhvzmk1nivcio2_t { 0% { transform: translate(275px,185px) scale(1,1) translate(-5px,-185px); } 29.1666% { transform: translate(275px,185px) scale(1,1) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 41.6666% { transform: translate(275px,185px) scale(1.04,1.04) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 62.5% { transform: translate(275px,185px) scale(1,1) translate(-5px,-185px); } 100% { transform: translate(275px,185px) scale(1,1) translate(-5px,-185px); } }
+@keyframes yedw8ry0ikwhvzmk1nivcio2_o { 0% { opacity: 0.1; } 29.1667% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 41.6667% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 62.5% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes t2fw8x6pn9yhjm9mhcl308cl_t { 0% { transform: translate(186.5px,185px) scale(1,1) translate(-6.5px,-185px); } 23.3333% { transform: translate(186.5px,185px) scale(1,1) translate(-6.5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 35.8333% { transform: translate(186.5px,185px) scale(1.04,1.04) translate(-6.5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 56.6666% { transform: translate(186.5px,185px) scale(1,1) translate(-6.5px,-185px); } 100% { transform: translate(186.5px,185px) scale(1,1) translate(-6.5px,-185px); } }
+@keyframes t2fw8x6pn9yhjm9mhcl308cl_o { 0% { opacity: 0.1; } 23.3333% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 35.8333% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 56.6667% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes bwxght7i3ntl5dvtmayknart_t { 0% { transform: translate(94.5px,185px) scale(1,1) translate(-5.5px,-185px); } 16.6666% { transform: translate(94.5px,185px) scale(1,1) translate(-5.5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 29.1666% { transform: translate(94.5px,185px) scale(1.04,1.04) translate(-5.5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { transform: translate(94.5px,185px) scale(1,1) translate(-5.5px,-185px); } 100% { transform: translate(94.5px,185px) scale(1,1) translate(-5.5px,-185px); } }
+@keyframes bwxght7i3ntl5dvtmayknart_o { 0% { opacity: 0.1; } 16.6667% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 29.1667% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 50% { opacity: 0.1; } 100% { opacity: 0.1; } }
+@keyframes sca7u9p0dl3v01mnqhq7khjj_t { 0% { transform: translate(5px,185px) scale(1,1) translate(-5px,-185px); } 10.8333% { transform: translate(5px,185px) scale(1,1) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 23.3333% { transform: translate(5px,185px) scale(1.04,1.04) translate(-5px,-185px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 44.1666% { transform: translate(5px,185px) scale(1,1) translate(-5px,-185px); } 100% { transform: translate(5px,185px) scale(1,1) translate(-5px,-185px); } }
+@keyframes sca7u9p0dl3v01mnqhq7khjj_o { 0% { opacity: 0.1; } 10.8333% { opacity: 0.1; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 23.3333% { opacity: 0.5; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 44.1667% { opacity: 0.1; } 100% { opacity: 0.1; } }
+    </style>
+    <g id="gzniw3qkm1u3f0vl29g11mg6" transform="translate(399,400) translate(-320,-185)" style="animation: 2s linear infinite both gzniw3qkm1u3f0vl29g11mg6_t;">
+        <g id="lhdz4wcp8nqmbo356474um1z" opacity="0.1" transform="translate(635,185) translate(-5,-185)" style="animation: 2s linear infinite both lhdz4wcp8nqmbo356474um1z_t, 2s linear infinite both lhdz4wcp8nqmbo356474um1z_o;">
+            <ellipse id="hjfk46wdp7bdly3rwv8e4u7w" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-630,0) translate(635,365)"/>
+            <ellipse id="n39e1k6bsvn80wx61d6dv9bs" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-630,0) translate(635,5)"/>
+            <ellipse id="bh1ps74inw4b2zcsn5k9knwj" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-630,0) translate(635,95)"/>
+            <ellipse id="hzqizy9c80ih1ot5o9ncmiwl" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-630,0) translate(635,185)"/>
+            <ellipse id="l75q4xl8tvzgfky3u3czice1" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-630,0) translate(635,275)"/>
+        </g>
+        <g id="cc3tkis16kpzg73l3ye4am8a" opacity="0.1" transform="translate(590,185) translate(-50,-185)" style="animation: 2s linear infinite both cc3tkis16kpzg73l3ye4am8a_t, 2s linear infinite both cc3tkis16kpzg73l3ye4am8a_o;">
+            <ellipse id="eo016xgcrb0ikm3txzzhg97s" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-540,0) translate(545,365)"/>
+            <ellipse id="sn996fmdwvv6vbz4vuqnck6m" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-540,0) translate(545,5)"/>
+            <ellipse id="yo000mdw8n1gvgu405pycc6e" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-540,0) translate(545,95)"/>
+            <ellipse id="nwojv0rhu40mi8m5ba3hokeu" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-540,0) translate(545,185)"/>
+            <ellipse id="oavgd1ooro6psqto85mwt2xq" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-540,0) translate(545,275)"/>
+        </g>
+        <g id="lkg4wqqh6vjk0w59mbvhzkni" opacity="0.1" transform="translate(455,185) translate(-5,-185)" style="animation: 2s linear infinite both lkg4wqqh6vjk0w59mbvhzkni_t, 2s linear infinite both lkg4wqqh6vjk0w59mbvhzkni_o;">
+            <ellipse id="sfx01n6aif3m36kmijguavnw" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-450,0) translate(455,5)"/>
+            <ellipse id="dkvex76asl86gelctrz3hgip" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-450,0) translate(455,95)"/>
+            <ellipse id="zhqjb7bhyva7e1wnpl8eg3hq" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-450,0) translate(455,185)"/>
+            <ellipse id="bhuvt3osw6y0w52xpnd6uu3e" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-450,0) translate(455,275)"/>
+            <ellipse id="ird2eeonpkyol11ba63d9zg6" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-450,0) translate(455,365)"/>
+        </g>
+        <g id="rx59ntguh2yfeoulaampk2c7" opacity="0.1" transform="translate(365,185) translate(-5,-185)" style="animation: 2s linear infinite both rx59ntguh2yfeoulaampk2c7_t, 2s linear infinite both rx59ntguh2yfeoulaampk2c7_o;">
+            <ellipse id="loyv3fa8v7ew4c5tsv4b25ob" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-360,0) translate(365,5)"/>
+            <ellipse id="eh8h8ugilp9e0k21290f3v0g" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-360,0) translate(365,95)"/>
+            <ellipse id="i6ainafzm91388dyxwbhsu14" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-360,0) translate(365,185)"/>
+            <ellipse id="hml43einew6z39a67r68berj" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-360,0) translate(365,275)"/>
+            <ellipse id="komdjv99a684vzmzdo0nds3e" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-360,0) translate(365,365)"/>
+        </g>
+        <g id="yedw8ry0ikwhvzmk1nivcio2" opacity="0.1" transform="translate(275,185) translate(-5,-185)" style="animation: 2s linear infinite both yedw8ry0ikwhvzmk1nivcio2_t, 2s linear infinite both yedw8ry0ikwhvzmk1nivcio2_o;">
+            <ellipse id="qa4l3jozl5vw3b5dpxiree28" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-270,0) translate(275,5)"/>
+            <ellipse id="k6p2evazoxj09oab2sb12vwu" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-270,0) translate(275,95)"/>
+            <ellipse id="dvrvpegoaqqbhqpkcpf8x052" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-270,0) translate(275,185)"/>
+            <ellipse id="osmatbeu81jssds4dzc6l6ub" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-270,0) translate(275,275)"/>
+            <ellipse id="n7l36dmpknm2ax6kxwwbh2db" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-270,0) translate(275,365)"/>
+        </g>
+        <g id="t2fw8x6pn9yhjm9mhcl308cl" opacity="0.1" transform="translate(186.5,185) translate(-6.5,-185)" style="animation: 2s linear infinite both t2fw8x6pn9yhjm9mhcl308cl_t, 2s linear infinite both t2fw8x6pn9yhjm9mhcl308cl_o;">
+            <ellipse id="ly4808mx3dsgntnk6h4lb0qm" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-177,0) translate(185,5)"/>
+            <ellipse id="pbk3drwn8b6cgsgxotpqgqa3" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-180,0) translate(185,95)"/>
+            <ellipse id="kj2poz1calttzyfdi9h5u9ff" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-180,0) translate(185,185)"/>
+            <ellipse id="fqld4h37gqj9fzkk4t3t7abj" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-180,0) translate(185,275)"/>
+            <ellipse id="b3i1kq04p1yfi3hf1jejyscr" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-180,0) translate(185,365)"/>
+        </g>
+        <g id="bwxght7i3ntl5dvtmayknart" opacity="0.1" transform="translate(94.5,185) translate(-5.5,-185)" style="animation: 2s linear infinite both bwxght7i3ntl5dvtmayknart_t, 2s linear infinite both bwxght7i3ntl5dvtmayknart_o;">
+            <ellipse id="xi586zix9gizt7w6x5ihkznz" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-89,0) translate(95,5)"/>
+            <ellipse id="x5bnhlkoh0c93bcplqd79kw6" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-90,0) translate(95,95)"/>
+            <ellipse id="pittsqdnsocpyvy7pi0rrbki" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-89,0) translate(95,185)"/>
+            <ellipse id="b6wlivgaf86pyc1lxfrxtdlt" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-89,0) translate(95,275)"/>
+            <ellipse id="vkgo0qr1owiszi7wuh0g0cap" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(-89,0) translate(95,365)"/>
+        </g>
+        <g id="sca7u9p0dl3v01mnqhq7khjj" opacity="0.1" transform="translate(5,185) translate(-5,-185)" style="animation: 2s linear infinite both sca7u9p0dl3v01mnqhq7khjj_t, 2s linear infinite both sca7u9p0dl3v01mnqhq7khjj_o;">
+            <ellipse id="ufbb5ktvdoulry119dpzid2n" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(0,0) translate(5,5)"/>
+            <ellipse id="otoy9ygzq3eeme00jriqrgw8" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(0,0) translate(5,95)"/>
+            <ellipse id="oxvvyd7dd4g5tpl4nj3f5q07" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(0,0) translate(5,185)"/>
+            <ellipse id="f0tg07lb3yok9ljry7bpt87j" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(0,0) translate(5,275)"/>
+            <ellipse id="p78wxctdrncq5lg3wrxogmv9" rx="5" ry="5" fill="#989cb4" opacity="1" transform="translate(0,0) translate(5,365)"/>
+        </g>
+    </g>
+</svg>

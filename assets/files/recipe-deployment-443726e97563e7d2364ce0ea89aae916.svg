@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="16px" viewBox="0 0 110 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>recipe-deployment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(-1418.000000, -713.000000)" fill="#00C5CC">
+            <g id="Group-26" transform="translate(381.000000, 393.000000)">
+                <g id="Group-2" transform="translate(1037.000000, 320.000000)">
+                    <path d="M28,2 C29.1045695,2 30,2.8954305 30,4 L30,12 C30,13.1045695 29.1045695,14 28,14 L2,14 C0.8954305,14 1.3527075e-16,13.1045695 0,12 L0,4 C-1.3527075e-16,2.8954305 0.8954305,2 2,2 L28,2 Z M41,2 C42.1045695,2 43,2.8954305 43,4 L43,12 C43,13.1045695 42.1045695,14 41,14 L35,14 C33.8954305,14 33,13.1045695 33,12 L33,4 C33,2.8954305 33.8954305,2 35,2 L41,2 Z M108,2 C109.104569,2 110,2.8954305 110,4 L110,12 C110,13.1045695 109.104569,14 108,14 L55,14 C53.8954305,14 53,13.1045695 53,12 L53,4 C53,2.8954305 53.8954305,2 55,2 L108,2 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="598" height="598" viewBox="0 0 598 598">
+    <defs>
+        <linearGradient id="vd7pmuzj57x5j4dpqm05xh3g" x1="598" y1="598" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#ffffff" stop-opacity="0.1"/>
+        </linearGradient>
+    </defs>
+    <style>
+@keyframes a1_t { 0% { transform: translate(299px,299px) rotate(0deg); } 55.7692% { transform: translate(299px,299px) rotate(0deg); } 100% { transform: translate(299px,299px) rotate(360deg); } }
+@keyframes gwlmzptx07nt79eecorf4404_t { 0% { transform: scale(1,1) translate(-299px,-299px); } 55.7692% { transform: scale(1,1) translate(-299px,-299px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 61.5384% { transform: scale(0.8,0.8) translate(-299px,-299px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 95.3846% { transform: scale(0.8,0.8) translate(-299px,-299px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: scale(1,1) translate(-299px,-299px); } }
+    </style>
+    <g style="animation: 4.333s linear infinite both a1_t;">
+        <path fill="url(#vd7pmuzj57x5j4dpqm05xh3g)" fill-rule="nonzero" d="M299,598C133.867,598,0,464.133,0,299C0,133.867,133.867,0,299,0C464.133,0,598,133.867,598,299C598,464.133,464.133,598,299,598ZM299,518C419.95,518,518,419.95,518,299C518,178.05,419.95,80,299,80C178.05,80,80,178.05,80,299C80,419.95,178.05,518,299,518Z" opacity="1" transform="translate(299,299) translate(-299,-299)" style="animation: 4.333s linear infinite both gwlmzptx07nt79eecorf4404_t;"/>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+        <linearGradient id="a" x1="52.221%" x2="52.221%" y1="-15.596%" y2="121.12%">
+            <stop offset="0%" stop-color="#BB6FFF"/>
+            <stop offset="100%" stop-color="#4439FF"/>
+        </linearGradient>
+        <path id="b" d="M99 135c28.167 0 51-26.077 51-34.5 0-8.423-22.833-34.5-51-34.5s-51 24.676-51 34.5c0 9.824 22.833 34.5 51 34.5z"/>
+        <filter id="c" width="105.9%" height="108.7%" x="-2.9%" y="-4.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.933333333 0 0 0 0 0.858823529 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <circle id="d" cx="99" cy="100" r="23"/>
+        <filter id="e" width="110.9%" height="110.9%" x="-5.4%" y="-5.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.933333333 0 0 0 0 0.858823529 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <circle id="f" cx="99" cy="100" r="9"/>
+        <filter id="g" width="133.3%" height="133.3%" x="-16.7%" y="-16.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.933333333 0 0 0 0 0.858823529 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <linearGradient id="h" x1="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#AC53FF"/>
+            <stop offset="100%" stop-color="#4439FF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="url(#a)" stroke-width="2" d="M99 140c31.48 0 57-29.856 57-39.5 0-9.644-25.52-39.5-57-39.5s-57 28.252-57 39.5c0 11.248 25.52 39.5 57 39.5z"/>
+        <g fill-rule="nonzero">
+            <use fill="#FFF" xlink:href="#b"/>
+            <use fill="#000" filter="url(#c)" xlink:href="#b"/>
+            <use stroke="url(#a)" stroke-width="2" xlink:href="#b"/>
+        </g>
+        <g fill-rule="nonzero">
+            <use fill="#EEDBFF" xlink:href="#d"/>
+            <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+            <use stroke="url(#a)" stroke-width="2" xlink:href="#d"/>
+        </g>
+        <g fill-rule="nonzero">
+            <use fill="#FFF" xlink:href="#f"/>
+            <use fill="#000" filter="url(#g)" xlink:href="#f"/>
+            <use stroke="url(#a)" stroke-width="2" xlink:href="#f"/>
+        </g>
+        <path fill="url(#h)" d="M172.718 129l2.719 2.718a1.922 1.922 0 1 1-2.719 2.719L170 131.718l-2.718 2.719a1.922 1.922 0 1 1-2.719-2.719l2.719-2.718-2.719-2.718a1.922 1.922 0 1 1 2.719-2.719l2.718 2.719 2.718-2.719a1.922 1.922 0 1 1 2.719 2.719L172.718 129zM91 42c-6.627 0-12-5.373-12-12s5.373-12 12-12 12 5.373 12 12-5.373 12-12 12zm0-5a7 7 0 1 0 0-14 7 7 0 0 0 0 14z"/>
+        <path fill="url(#h)" d="M45.314 155.314h16v16h-16z" transform="rotate(45 53.314 163.314)"/>
+    </g>
+</svg>

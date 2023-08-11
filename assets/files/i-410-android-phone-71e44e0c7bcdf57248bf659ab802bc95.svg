@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="410" height="410" viewBox="0 0 410 410">
+    <defs>
+        <linearGradient id="a" x1="38.25%" x2="67.981%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#7BCD59"/>
+            <stop offset="100%" stop-color="#029E48"/>
+        </linearGradient>
+        <linearGradient id="b" x1="16.757%" x2="83.419%" y1="3.065%" y2="97.262%">
+            <stop offset="0%" stop-color="#7BCD59"/>
+            <stop offset="100%" stop-color="#029E48"/>
+        </linearGradient>
+        <linearGradient id="c" x1="0%" y1="27.015%" y2="73.689%">
+            <stop offset="0%" stop-color="#7BCD59"/>
+            <stop offset="100%" stop-color="#029E48"/>
+        </linearGradient>
+        <linearGradient id="f" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#7BCD59"/>
+            <stop offset="100%" stop-color="#029E48"/>
+        </linearGradient>
+        <rect id="d" width="144" height="305" rx="22"/>
+        <filter id="e" width="103.5%" height="101.6%" x="-1.7%" y="-.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <linearGradient id="i" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#7BCD59"/>
+            <stop offset="100%" stop-color="#029E48"/>
+        </linearGradient>
+        <rect id="g" width="132" height="278" x="6" y="14" rx="8"/>
+        <filter id="h" width="104.5%" height="102.2%" x="-2.3%" y="-1.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0.0429545581 0 0 0 0 0.778991284 0 0 0 0 0.0995823836 0 0 0 0.15 0"/>
+            <feOffset dy="-4" in="SourceAlpha" result="shadowOffsetInner2"/>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+            <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0.0422931651 0 0 0 0 0.660023384 0 0 0 0 0.103667516 0 0 0 0.2 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"/>
+                <feMergeNode in="shadowMatrixInner2"/>
+            </feMerge>
+        </filter>
+        <path id="k" d="M102 5a2 2 0 1 1 0 4 2 2 0 0 1 0-4zM34 5a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm13 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm63 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2zM80 6a1 1 0 0 1 0 2H64a1 1 0 0 1 0-2h16zM42 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+        <filter id="j" width="101.3%" height="150%" x="-.6%" y="-12.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <linearGradient id="l" x1="17.361%" y1="5.597%" y2="100%">
+            <stop offset="0%" stop-color="#7BCD59"/>
+            <stop offset="100%" stop-color="#029E48"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(13 13)">
+            <circle cx="192" cy="192" r="192" fill="url(#a)" opacity=".2"/>
+            <circle cx="192" cy="196" r="150" fill="url(#b)" opacity=".5"/>
+            <circle cx="192" cy="192" r="107" fill="url(#c)"/>
+        </g>
+        <g transform="translate(133 53)">
+            <use fill="#E0FFDC" xlink:href="#d"/>
+            <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+            <use stroke="url(#f)" stroke-width="2" xlink:href="#d"/>
+        </g>
+        <g transform="translate(133 53)">
+            <use fill="#FFF" xlink:href="#g"/>
+            <use fill="#000" filter="url(#h)" xlink:href="#g"/>
+            <use stroke="url(#i)" stroke-width="2" xlink:href="#g"/>
+        </g>
+        <g transform="translate(133 53)">
+            <use fill="#000" filter="url(#j)" xlink:href="#k"/>
+            <use fill="#7BCD59" xlink:href="#k"/>
+        </g>
+        <path fill="url(#l)" d="M72 192c22.091 0 40-17.909 40-40s-17.909-40-40-40-40 17.909-40 40 17.909 40 40 40zm-11.514-61l17.462 21.283-17.463 21.283A5 5 0 0 1 56 168.592v-32.618A5 5 0 0 1 60.486 131zm18.885 23.017l5.376 6.552-20.561 11.954 15.185-18.506zm7.303-8.9l6.378 3.708a4 4 0 0 1 0 6.916l-6.378 3.708-5.88-7.166 5.88-7.166zm-22.489-13.075l20.562 11.955-5.376 6.552-15.186-18.507z" transform="translate(133 53)"/>
+    </g>
+</svg>

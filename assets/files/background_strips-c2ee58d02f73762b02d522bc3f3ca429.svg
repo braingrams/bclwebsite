@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="1283px" viewBox="0 0 2560 1283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="6.06897149%" y1="29.5765495%" x2="83.1379595%" y2="29.5765495%" id="linearGradient-1">
+            <stop stop-color="#0A234A" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0A234A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="25.0689063%" x2="100%" y2="25.0689063%" id="linearGradient-2">
+            <stop stop-color="#113184" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#113184" stop-opacity="0.02" offset="11.8641724%"></stop>
+            <stop stop-color="#113184" stop-opacity="0.05" offset="17.7349773%"></stop>
+            <stop stop-color="#113184" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="34.2528947%" x2="56.4790673%" y2="34.9885274%" id="linearGradient-3">
+            <stop stop-color="#051540" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#051540" stop-opacity="0.04" offset="12.3909967%"></stop>
+            <stop stop-color="#051540" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="origo_background-strips" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="background_light" transform="translate(0.000000, 508.000000)">
+            <polygon id="Rectangle-2-Copy" fill="url(#linearGradient-1)" opacity="0.495323824" style="mix-blend-mode: soft-light;" points="-7.38825887e-13 204.503906 1663.68799 858 1663.68799 2080 0 2080"></polygon>
+            <polygon id="Rectangle-2-Copy" fill="url(#linearGradient-2)" points="-7.38825887e-13 34.5039062 1883.5 774 1883.5 1910 0 1910"></polygon>
+            <polygon id="Rectangle-2" fill="url(#linearGradient-3)" opacity="0.200000003" style="mix-blend-mode: soft-light;" transform="translate(1511.250000, 956.158203) scale(-1, 1) translate(-1511.250000, -956.158203) " points="462.5 0.31640625 2560 775.5 2560 1912 462.5 1912"></polygon>
+        </g>
+    </g>
+</svg>

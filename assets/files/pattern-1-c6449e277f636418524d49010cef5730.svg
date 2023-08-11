@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" style="background: rgba(0,0,0,0.00);">
+    <style>
+@keyframes bzxs87ra8abdm5sgjeec4qfk_o { 0% { opacity: 0.2; } 25.5952% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 34.5238% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 43.4524% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes muaaqef3unvi9bevai5i0ewq_o { 0% { opacity: 0.2; } 21.4286% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 30.3571% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 39.2857% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes fzl2qelzmeznit3eg8ctohie_o { 0% { opacity: 0.2; } 25.5952% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 34.5238% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 43.4524% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes wtuw93vqu3johpmp1cgeteu9_o { 0% { opacity: 0.2; } 21.4286% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 30.3571% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 39.2857% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes d0vkriiye0dj415aqpj6m58l_o { 0% { opacity: 0.2; } 16.6667% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 25.5952% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 34.5238% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes blmbs0x5os8hk52rk8p3y7xh_o { 0% { opacity: 0.2; } 21.4286% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 30.3571% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 39.2857% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes u5vkdid7ebhyxl9tyrylcfu6_o { 0% { opacity: 0.2; } 25.5952% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 34.5238% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 43.4524% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes e7uvrx6mayd0jxemom2fzhdz_o { 0% { opacity: 0.2; } 21.4286% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 30.3571% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 39.2857% { opacity: 0.2; } 100% { opacity: 0.2; } }
+@keyframes ep3p9vfnqwoj7zqzlizyt0us_o { 0% { opacity: 0.2; } 25.5952% { opacity: 0.2; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 34.5238% { opacity: 0.6; animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 43.4524% { opacity: 0.2; } 100% { opacity: 0.2; } }
+    </style>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(8,8) translate(-8,-8)" style="animation: 2.8s linear infinite both bzxs87ra8abdm5sgjeec4qfk_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(40,8) translate(-8,-8)" style="animation: 2.8s linear infinite both muaaqef3unvi9bevai5i0ewq_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(72,8) translate(-8,-8)" style="animation: 2.8s linear infinite both fzl2qelzmeznit3eg8ctohie_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(8,40) translate(-8,-8)" style="animation: 2.8s linear infinite both wtuw93vqu3johpmp1cgeteu9_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(40,40) translate(-8,-8)" style="animation: 2.8s linear infinite both d0vkriiye0dj415aqpj6m58l_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(72,40) translate(-8,-8)" style="animation: 2.8s linear infinite both blmbs0x5os8hk52rk8p3y7xh_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(8,72) translate(-8,-8)" style="animation: 2.8s linear infinite both u5vkdid7ebhyxl9tyrylcfu6_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(40,72) translate(-8,-8)" style="animation: 2.8s linear infinite both e7uvrx6mayd0jxemom2fzhdz_o;"/>
+    <rect width="16" height="16" fill="#ffffff" stroke="none" opacity="0.2" transform="translate(72,72) translate(-8,-8)" style="animation: 2.8s linear infinite both ep3p9vfnqwoj7zqzlizyt0us_o;"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="598" height="598" viewBox="0 0 598 598">
+    <defs>
+        <linearGradient id="vx0j9e0e284x9w9h9e76ig6e" x1="0.31163" y1="0.45291" x2="0.2662" y2="1.02791">
+            <stop offset="0" stop-color="#4e79dc" stop-opacity="0"/>
+            <stop offset="1" stop-color="#4e79dc"/>
+        </linearGradient>
+    </defs>
+    <style>
+@keyframes a1_t { 0% { transform: translate(299px,299px) rotate(0deg); } 100% { transform: translate(299px,299px) rotate(360deg); } }
+@keyframes b2rdgkrjwv928lb33ovw8mtr_t { 0% { transform: scale(1,1) translate(-299px,-299px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 42.9118% { transform: scale(0.95,0.95) translate(-299px,-299px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 100% { transform: scale(1,1) translate(-299px,-299px); } }
+    </style>
+    <g style="animation: 4.35s linear infinite both a1_t;">
+        <path fill="url(#vx0j9e0e284x9w9h9e76ig6e)" fill-rule="nonzero" d="M299,598C133.867,598,0,464.133,0,299C0,133.867,133.867,0,299,0C464.133,0,598,133.867,598,299C598,332.63,592.431,365.554,581.647,396.742C540.331,516.236,427.47,598,299,598ZM299,518C393.102,518,475.785,458.1,506.04,370.6C513.924,347.793,518,323.701,518,299C518,178.05,419.95,80,299,80C178.05,80,80,178.05,80,299C80,419.95,178.05,518,299,518Z" opacity="0.2" transform="translate(299,299) translate(-299,-299)" style="animation: 4.35s linear infinite both b2rdgkrjwv928lb33ovw8mtr_t;"/>
+    </g>
+</svg>

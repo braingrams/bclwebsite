@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+        <linearGradient id="c" x1="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#B1E752"/>
+            <stop offset="100%" stop-color="#00A525"/>
+        </linearGradient>
+        <rect id="a" width="58" height="118" x="20" rx="9.281"/>
+        <filter id="b" width="106.9%" height="103.4%" x="-3.4%" y="-1.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <path id="d" d="M0 49.223L22 44l22 5.223v32.465c0 9.586-7.333 17.244-22 22.975C7.333 98.933 0 91.274 0 81.688V49.223z"/>
+        <filter id="e" width="106.8%" height="104.9%" x="-3.4%" y="-2.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <path id="f" d="M4 52.534L22 48l18 4.534v28.184c0 8.188-6 14.615-18 19.282C10 95.333 4 88.906 4 80.718V52.534z"/>
+        <filter id="g" width="108.3%" height="105.8%" x="-4.2%" y="-2.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <path id="i" d="M47.5 3.5h8a1 1 0 0 1 0 2h-8a1 1 0 0 1 0-2zm-4-.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/>
+        <filter id="h" width="106.9%" height="166.7%" x="-3.4%" y="-16.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(51 42)">
+            <use fill="#E9F4CC" xlink:href="#a"/>
+            <use fill="#000" filter="url(#b)" xlink:href="#a"/>
+            <use stroke="url(#c)" stroke-width="2" xlink:href="#a"/>
+        </g>
+        <path fill="#FFF" stroke="url(#c)" stroke-width="2" d="M34.002 4c.066 2.22 1.887 4 4.123 4h21.75a4.125 4.125 0 0 0 4.123-4h3.368A6.634 6.634 0 0 1 74 10.634v96.732A6.634 6.634 0 0 1 67.366 114H30.634A6.634 6.634 0 0 1 24 107.366V10.634A6.634 6.634 0 0 1 30.634 4h3.368z" transform="translate(51 42)"/>
+        <g fill-rule="nonzero" transform="translate(51 42)">
+            <use fill="#E9F4CC" xlink:href="#d"/>
+            <use fill="#000" filter="url(#e)" xlink:href="#d"/>
+            <path stroke="url(#c)" stroke-linejoin="square" stroke-width="2" d="M1 50.013v31.675c0 9.018 6.92 16.321 21 21.9 14.08-5.579 21-12.882 21-21.9V50.013l-21-4.985-21 4.985z"/>
+        </g>
+        <g fill-rule="nonzero" transform="translate(51 42)">
+            <use fill="#FFF" xlink:href="#f"/>
+            <use fill="#000" filter="url(#g)" xlink:href="#f"/>
+            <path stroke="url(#c)" stroke-linejoin="square" stroke-width="2" d="M5 53.313v27.405c0 7.624 5.589 13.69 17 18.208 11.411-4.518 17-10.584 17-18.208V53.313l-17-4.282-17 4.282z"/>
+        </g>
+        <g transform="translate(51 42)">
+            <use fill="#000" filter="url(#h)" xlink:href="#i"/>
+            <use fill="#A0E04E" xlink:href="#i"/>
+        </g>
+        <path stroke="#4FC239" stroke-linecap="round" stroke-width="4" d="M66 115.5l4.667 4.5L80 111"/>
+        <path fill="url(#c)" d="M162 180c-6.627 0-12-5.373-12-12s5.373-12 12-12 12 5.373 12 12-5.373 12-12 12zm0-5a7 7 0 1 0 0-14 7 7 0 0 0 0 14zM170.718 70l2.719 2.718a1.922 1.922 0 1 1-2.719 2.719L168 72.718l-2.718 2.719a1.922 1.922 0 0 1-2.719-2.719L165.282 70l-2.719-2.718a1.922 1.922 0 1 1 2.719-2.719L168 67.282l2.718-2.719a1.922 1.922 0 0 1 2.719 2.719L170.718 70z"/>
+        <path fill="url(#c)" d="M27.314 26.314h16v16h-16z" transform="rotate(45 35.314 34.314)"/>
+    </g>
+</svg>

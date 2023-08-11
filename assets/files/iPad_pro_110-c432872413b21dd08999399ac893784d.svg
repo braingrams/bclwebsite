@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="210px" viewBox="0 0 156 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iPad_pro_110</title>
+    <defs>
+        <path d="M3.084,12 L3.084,3.54 L2.388,3.54 L0.336,4.248 L0.564,5.016 L2.148,4.524 L2.148,12 L3.084,12 Z M7.38,12 L7.38,3.54 L6.684,3.54 L4.632,4.248 L4.86,5.016 L6.444,4.524 L6.444,12 L7.38,12 Z" id="path-1"></path>
+    </defs>
+    <g id="iOS-Ad-Hoc-Builds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad_pro_110" fill-rule="nonzero">
+            <path d="M22,34.5 C18.9624339,34.5 16.5,36.9624339 16.5,40 L16.5,203 C16.5,206.037566 18.9624339,208.5 22,208.5 L134,208.5 C137.037566,208.5 139.5,206.037566 139.5,203 L139.5,40 C139.5,36.9624339 137.037566,34.5 134,34.5 L22,34.5 Z" id="Rectangle" stroke="#92A1AE" fill="#FFFFFF"></path>
+            <path d="M25,39.5 C23.0670034,39.5 21.5,41.0670034 21.5,43 L21.5,200 C21.5,201.932997 23.0670034,203.5 25,203.5 L131,203.5 C132.932997,203.5 134.5,201.932997 134.5,200 L134.5,43 C134.5,41.0670034 132.932997,39.5 131,39.5 L25,39.5 Z" id="Rectangle" stroke="#92A1AE" fill-opacity="0.15" fill="#92A1AE"></path>
+            <g id="Group-36" transform="translate(72.000000, 114.000000)">
+                <g id="11">
+                    <use fill="#000000" xlink:href="#path-1"></use>
+                    <use fill="#92A1AE" xlink:href="#path-1"></use>
+                </g>
+                <path d="M10.5,3 L12,3 L11,6 L10,6 L10.5,3 Z M12.5,3 L14,3 L13,6 L12,6 L12.5,3 Z" id="Shape" fill="#92A1AE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="140px" viewBox="0 0 70 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iPhone_5_SE</title>
+    <defs>
+        <path d="M6.096,12 L6.096,10.008 L7.404,10.008 L7.404,9.216 L6.096,9.216 L6.096,3.54 L5.268,3.54 L0.516,9.324 L0.756,10.008 L5.184,10.008 L5.184,12 L6.096,12 Z M5.184,9.216 L1.656,9.216 L5.184,4.884 L5.184,9.216 Z" id="path-1"></path>
+    </defs>
+    <g id="iOS-Ad-Hoc-Builds" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone_5_SE">
+            <path d="M15,42.5 C12.5147186,42.5 10.5,44.5147186 10.5,47 L10.5,134 C10.5,136.485281 12.5147186,138.5 15,138.5 L55,138.5 C57.4852814,138.5 59.5,136.485281 59.5,134 L59.5,47 C59.5,44.5147186 57.4852814,42.5 55,42.5 L15,42.5 Z" id="Rectangle" stroke="#92A1AE" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M14,55.5 C13.7238576,55.5 13.5,55.7238576 13.5,56 L13.5,125 C13.5,125.276142 13.7238576,125.5 14,125.5 L56,125.5 C56.2761424,125.5 56.5,125.276142 56.5,125 L56.5,56 C56.5,55.7238576 56.2761424,55.5 56,55.5 L14,55.5 Z" id="Rectangle" stroke="#92A1AE" fill-opacity="0.15" fill="#92A1AE" fill-rule="nonzero"></path>
+            <path d="M30,50.5 C29.4477153,50.5 29,50.0522847 29,49.5 C29,48.9477153 29.4477153,48.5 30,48.5 C30.5522847,48.5 31,48.9477153 31,49.5 C31,50.0522847 30.5522847,50.5 30,50.5 Z M34.5,49 L41.5,49 C41.7761424,49 42,49.2238576 42,49.5 C42,49.7761424 41.7761424,50 41.5,50 L34.5,50 C34.2238576,50 34,49.7761424 34,49.5 C34,49.2238576 34.2238576,49 34.5,49 Z" id="Combined-Shape" fill="#92A1AE" fill-rule="nonzero"></path>
+            <circle id="Oval" stroke="#92A1AE" cx="35" cy="132" r="3.5"></circle>
+            <g id="Group-36" transform="translate(31.000000, 81.000000)" fill-rule="nonzero">
+                <g id="4">
+                    <use fill="#000000" xlink:href="#path-1"></use>
+                    <use fill="#92A1AE" xlink:href="#path-1"></use>
+                </g>
+                <path d="M9.5,3 L11,3 L10,6 L9,6 L9.5,3 Z M11.5,3 L13,3 L12,6 L11,6 L11.5,3 Z" id="Shape" fill="#92A1AE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

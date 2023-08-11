@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" style="white-space: pre;">
+    <style>
+@keyframes zoppgyql3qxvht3tf2j7x3pv_t { 0% { transform: translate(58px,0px); } 72.4264% { transform: translate(58px,0px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 79.0441% { transform: translate(58px,58px); } 86.0294% { transform: translate(0px,58px); } 93.0147% { transform: translate(0px,0px); } 100% { transform: translate(58px,0px); } }
+@keyframes vgz6gda8kh7udj2bkcvwduj9_t { 0% { transform: translate(0px,68px); } 72.4264% { transform: translate(0px,68px); animation-timing-function: cubic-bezier(0.42,0,0.58,1); } 79.0441% { transform: translate(0px,0px); } 86.0294% { transform: translate(68px,0px); } 93.0147% { transform: translate(68px,68px); } 100% { transform: translate(0px,68px); } }
+    </style>
+    <rect width="22" height="22" fill="#ffffff" stroke="none" opacity="0.3" transform="translate(69,11) translate(-11,-11)" style="animation: 4.533s linear infinite both zoppgyql3qxvht3tf2j7x3pv_t;"/>
+    <rect width="12" height="12" fill="#ffffff" stroke="none" opacity="0.3" transform="translate(6,74) translate(-6,-6)" style="animation: 4.533s linear infinite both vgz6gda8kh7udj2bkcvwduj9_t;"/>
+</svg>

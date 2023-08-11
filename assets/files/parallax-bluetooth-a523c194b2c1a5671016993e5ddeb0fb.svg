@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Denis kluchnikov -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44px" height="60px" viewBox="0 0 44 60">
+    <style>
+@keyframes a0_do { 0% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 112px; } }
+@keyframes a1_do { 0% { stroke-dashoffset: 7px; } 100% { stroke-dashoffset: 120px; } }
+    </style>
+    <g opacity="1" transform="translate(22,30) translate(-22,-30)">
+        <path id="Combined-Shape" d="M20.9099,0L22.2396,0C31.9383,0.190418,36.906,3.4456,40.1011,9.50565C43.2934,15.5643,45.7785,32.7924,42.3469,44.7929C38.9179,56.7921,32.1749,59.7637,21.765,60L20.2678,60C10.807,59.7971,5.52117,55.4703,2.48522,48.2371C0.885597,44.4315,0.17712,39.4932,0,34.0947L0,28.1528C0.102398,24.5431,0.368077,20.8432,0.709865,17.2281C1.73522,6.36027,9.56031,0.227947,20.9099,0z" fill="#005698" transform="translate(22,30) translate(-22,-30)"/>
+        <path d="M0.5,0.358828L19.5,19.3588L10.5,28.3588L10.5,-7.64117L19.5,1.35883L0.5,20.3588" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-width="4" stroke-linejoin="round" stroke-dasharray="98 14" stroke-miterlimit="1" stroke-dashoffset="0" transform="translate(11.5,19.6412)" style="animation: a0_do 2s linear infinite both;"/>
+        <path d="M0.5,0.358828L19.5,19.3588L10.5,28.3588L10.5,-7.64117L19.5,1.35883L0.5,20.3588" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-width="4" stroke-linejoin="round" stroke-dasharray="1 111" stroke-miterlimit="1" stroke-dashoffset="7" transform="translate(11.5,19.6412)" style="animation: a1_do 2s linear infinite both;"/>
+    </g>
+</svg>
