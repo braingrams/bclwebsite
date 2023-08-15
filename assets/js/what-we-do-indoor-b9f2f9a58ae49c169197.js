@@ -21863,7 +21863,8 @@ webpackJsonp(
         );
         this.DOM.fail = this.DOM.container.querySelector(".js-request_fail");
 
-        this.DOM.form = this.DOM.container.querySelector(".js-request_form");
+        this.DOM.form = this.DOM.container.querySelector(". " action="https://public.herotofu.com/v1/483c8f80-3a05-11ee-aa48-0d756f031946"
+                                                method="post");
         this.DOM.formSteps = {
           wrap: this.DOM.form.querySelector(".js-request_steps"),
           step: this.DOM.form.querySelectorAll(".js-request_step"),
@@ -22389,7 +22390,8 @@ webpackJsonp(
       requestAdviserForm.prototype.setDOM = function (container) {
         this.DOM.container = container;
 
-        this.DOM.form = this.DOM.container.querySelector(".js-request_form");
+        this.DOM.form = this.DOM.container.querySelector(". " action="https://public.herotofu.com/v1/483c8f80-3a05-11ee-aa48-0d756f031946"
+                                                method="post");
         this.DOM.formSubmit = this.DOM.form.querySelector(".js-request_submit");
         this.DOM.adviser = this.DOM.form.querySelector(".js-request_adviser");
         this.DOM.fields = {

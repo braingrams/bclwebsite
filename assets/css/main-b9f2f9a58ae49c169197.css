@@ -5893,6 +5893,7 @@ body.webp .ui-checkbox:checked + i {
   -o-transition: transform .7s ease;
   transition: transform .7s ease;
   transition: transform .7s ease, -webkit-transform .7s ease;
+  
 }
 
 @media only screen and (max-width: 1024px) {
@@ -5904,8 +5905,8 @@ body.webp .ui-checkbox:checked + i {
 
 @media only screen and (min-width: 1025px) {
   .request_estimate_container {
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
+    -webkit-transform: translate3d(0, 0%, 0);
+    transform: translate3d(0, 0%, 0);
   }
 }
 
@@ -8810,6 +8811,13 @@ body {
   white-space: nowrap;
   text-transform: uppercase;
   color: rgba(29, 31, 38, 0.125);
+}
+.newpage{
+  background: #1d1f26;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /**
